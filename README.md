@@ -15,9 +15,7 @@ Ecommerce Store Mobile Application is a **Flutter-based** mobile app that provid
 
 ## 📸 Screenshots  
 
-| Home Page  | Product Details  | Shopping Cart  |
-|------------|-----------------|----------------|
-| ![Home Page](screenshots/home.png) | ![Product Details](screenshots/details.png) | ![Shopping Cart](screenshots/cart.png) |
+you will find it at screenshots folder
 
 ---
 
